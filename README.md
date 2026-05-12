@@ -8,4 +8,4 @@
 
 现已上线微信小程序，建议体验微信小程序版！
 
-体验链接：[链接](https://helloopk.github.io/yoda.github.io/)
+微信/QQ搜索小程序：MC像素画转换器
